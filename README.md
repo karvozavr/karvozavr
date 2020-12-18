@@ -9,3 +9,6 @@ I am passionate about software architecture, software development process, writi
 - dmitrii.abramov@outlook.com 📧
 - Telegram [@karvozavr](https://t.me/karvozavr) 💬
 - [LinkedIn](https://www.linkedin.com/in/dmitriy-abramov/) 👔
+
+💼 Here you can find my CV:
+- [Dmitrii Abramov CV (PDF)](https://karvozavr.github.io/CV_Dmitrii_Abramov.pdf)
