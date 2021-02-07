@@ -3,7 +3,7 @@
 I am a Software Developer. 
 I have experience in various technologies, software and research projects.
 
-I am passionate about software architecture, software development process, writing clean code, and finding elegant solutions. I also play the guitar, write songs, teach Python, algorithms, and data structures to school students.
+I am passionate about software architecture, software development process, writing clean code, and finding elegant solutions.
 
 📫 You can reach me via:
 - dmitrii.abramov@outlook.com 📧
