@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-https://dmitrii.org/
+[dmitrii.org](https://dmitrii.org/)
 
 I am a Software Developer. 
 I have experience in various technologies, software and research projects.
