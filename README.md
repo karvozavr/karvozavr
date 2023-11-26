@@ -13,6 +13,6 @@ I am passionate about software architecture, software development process, writi
 - [LinkedIn](https://www.linkedin.com/in/dmitrii-abramov/) 👔
 
 💼 Here you can find my CV:
-- [Dmitrii Abramov CV.pdf](https://karvozavr.github.io/CV_Dmitrii_Abramov.pdf)
+- [Dmitrii Abramov CV.pdf](https://dmitrii.org/docs/CV_Dmitrii_Abramov.pdf)
 
 🏂 Also check out [my blog](https://dev.to/karvozavr/the-four-horsemen-of-software-complexity-architecture-decision-records-to-the-rescue-1211).
