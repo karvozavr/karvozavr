@@ -9,10 +9,9 @@ I am passionate about software architecture, software development process, writi
 
 📫 You can reach me via:
 - dmitrii.abramov@outlook.com 📧
-- Telegram [@karvozavr](https://t.me/karvozavr) 💬
 - [LinkedIn](https://www.linkedin.com/in/dmitrii-abramov/) 👔
 
 💼 Here you can find my CV:
-- [Dmitrii Abramov CV.pdf](https://dmitrii.org/docs/CV_Dmitrii_Abramov.pdf)
+- [Dmitrii Abramov CV.pdf](https://dmitrii.org/docs/Dmitrii-Abramov-CV-2025-v4.pdf)
 
-🏂 Also check out [my blog](https://dev.to/karvozavr/the-four-horsemen-of-software-complexity-architecture-decision-records-to-the-rescue-1211).
+🏂 Also check out [my blog](https://dev.to/karvozavr).
